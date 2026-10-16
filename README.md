@@ -1,0 +1,2 @@
+# premium-pump-drill-001-pump-drill-building-flywheel
+Tired of losing track of your pump drill iterations? Stop guessing which flywheel diameter gave you the best spin. The Pump Drill Building &amp; Flywheel Craft Hub is your single source of truth for every build, from spindle length to bearing type.  This Notion template turns scattered notes and photos into a structured system. It helps you log materia
